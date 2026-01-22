@@ -1,0 +1,7 @@
+{
+  "name": "NEURO-SCAN: Cyber Dossier System",
+  "description": "A cyberpunk-themed biometric simulation that 'scans' the eye to generate a fictional futuristic identity and dossier.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
